@@ -1,2 +1,2 @@
 # JAVA-DEVELOPMENT
-Task Submission of Internship of #technohack mentor @sandipgavit
+Task Submission of Internship at #technohack mentor @sandipgavit
